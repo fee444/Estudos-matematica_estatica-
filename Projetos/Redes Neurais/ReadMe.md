@@ -55,31 +55,11 @@ O modelo segue as seguintes etapas:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-📦 Rede-Neural
- ┣ 📜 algoritimo_redes_neurais.ipynb
- ┗ 📜 README.md
-```
-
----
-
 ## 💡 Aprendizados
 
 Este projeto foi desenvolvido com foco no aprendizado dos fundamentos do Machine Learning.
 
 Embora bibliotecas como TensorFlow e PyTorch simplifiquem a criação de modelos, implementar uma rede neural manualmente proporciona uma compreensão muito mais profunda sobre como os algoritmos realmente funcionam.
-
----
-
-## 📈 Próximos Passos
-
-- Implementar Backpropagation.
-- Testar diferentes funções de ativação.
-- Adicionar múltiplas camadas ocultas.
-- Comparar os resultados com modelos do Scikit-learn.
-- Implementar visualizações do processo de treinamento.
 
 ---
 
