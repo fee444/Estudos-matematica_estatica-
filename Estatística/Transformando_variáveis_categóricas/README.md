@@ -9,14 +9,23 @@ O projeto utiliza um dataset com 400 registros e 7 variáveis relacionadas a ven
 O objetivo é utilizar as informações disponíveis para construir um modelo capaz de prever o custo_entrega e, posteriormente, analisar a influência das variáveis preditoras sobre essa variável alvo.
 
 Tecnologias utilizadas
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-Learn
+
 Jupyter Notebook
+
 Etapas desenvolvidas
+
 1. Carregamento e exploração dos dados
 
 O dataset foi carregado utilizando Pandas e inicialmente foram analisadas sua estrutura, dimensões, tipos das variáveis e primeiras observações.
