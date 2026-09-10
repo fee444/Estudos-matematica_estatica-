@@ -27,6 +27,8 @@ O conjunto possui:
 7 variáveis
 Variáveis numéricas e categóricas
 Nenhum valor nulo identificado na estrutura apresentada
+
+
 2. Análise exploratória
 
 Foi realizada uma análise exploratória considerando os diferentes tipos de variáveis, buscando compreender a estrutura dos dados antes da construção do modelo.
